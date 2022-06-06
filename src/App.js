@@ -59,7 +59,7 @@ function App() {
         <img style={imageStyle} src="./example.png" alt='example de message par pictogramme'/>
         <h2>Ce que j'ai appris</h2>
         <p style={textStyle}>
-          Quand j'ai debuté ce projet, j'avais une idée très vague de qu'est React et je ne savais même pas ce qu'était firebase.
+          Quand j'ai debuté ce projet, j'avais une idée très vague de ce qu'est React et je n'avais jamais entendu parler de firebase.
           Grâce au projet, j'ai découvert ces outils en autonomie et aujourd'hui, j'ai une maitrise relative de ceux-ci.
           Aussi, j'ai appris à travailler en groupe avec des étudiants provenant d'un domaine différent de l'informatique.
           Cette collaboration m'a permis de m'adapter à leur façon de penser, et à la façon de leur faire comprendre qu'un 
